@@ -1,6 +1,4 @@
-# django_first_Project
-
-#this is my first project in learning django
+# django_first_Project - this is my first project in learning django
 
 Use in this project
 
